@@ -1,9 +1,12 @@
-<a href="https://www.kaggle.com/qkrdyddnr"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=blue"/></a>
+## I want to be a Data-scientist
 
+#### :pencil2: STUDYING  
+<a href="https://www.kaggle.com/qkrdyddnr"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=blue"/></a> <a href="https://https://www.acmicpc.net/"><img src="https://img.shields.io/badge/baekjoon-88CE02?style=flat-square&logo=baekjoon&logoColor=blue"/></a> 
+#### :seedling: : LIFE
+##### * 2021.02 : First Programming
+##### * 2021.03 ~ 2022. 02 : INHA University Computer Science Engineering
+##### * 2022.04 ~ : Military
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongukpark)](https://github.com/yongukpark/github-readme-stats)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkzj02)](https://solved.ac/tkzj02)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongukpark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)              
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 

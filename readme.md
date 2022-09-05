@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=&fontSize=90" />
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=I want to be a D%20render&fontSize=90" />
-## I want to be a Data-scientist
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=I%20want%20to%20be%20a%20Data-scientist&fontSize=30" />
 
 #### :pencil2: STUDYING  
 <a href="https://www.kaggle.com/qkrdyddnr"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=blue"/></a> <a href="https://https://www.acmicpc.net/"><img src="https://img.shields.io/badge/baekjoon-88CE02?style=flat-square&logo=baekjoon&logoColor=blue"/></a>

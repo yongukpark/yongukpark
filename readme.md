@@ -1,7 +1,7 @@
 #### :computer: : Profile 
 * ##### Kaggle :  <a href="https://www.kaggle.com/qkrdyddnr"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=blue"/></a>
 
-* ##### Notion : <a href="https://www.notion.so/345a311e1ea2437d95ec77cdc617451f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+* ##### Notion : <a href="https://www.notion.so/yongukpark"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 ---
 
 #### :seedling: : LIFE 

@@ -14,4 +14,4 @@
 ##### * 2022.04 ~ : Military
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongukpark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)        [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tkzj02)](https://www.acmicpc.net/)          
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongukpark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkzj02)](https://solved.ac/tkzj02)

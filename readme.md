@@ -1,7 +1,7 @@
 #### :computer: : Profile 
 * ##### Kaggle :  <a href="https://www.kaggle.com/qkrdyddnr"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=blue"/></a>
 
-* ##### Notion : <a href="https://www.notion.so/yongukpark"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+* ##### Velog : <a href="https://velog.io/@yongukpark"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 ---
 
 #### :seedling: : LIFE 

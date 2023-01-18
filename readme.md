@@ -15,5 +15,4 @@
 * ##### <a href="https://github.com/yongukpark/BOJ"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> : BOJ
 * ##### <a href="https://velog.io/@yongukpark/series/Statistics"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> : Statistics
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongukpark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkzj02)](https://solved.ac/tkzj02)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkzj02)](https://solved.ac/tkzj02)

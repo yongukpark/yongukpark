@@ -16,6 +16,6 @@
 * ##### <a href="https://velog.io/@yongukpark/series/Statistics"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> : Statistics
 ##### 2024.03 ~ 2024.07
 * ##### <a href="https://github.com/yongukpark/NewsManageProgram"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> : Java Project
-* ##### <a href="https://github.com/yongukpark/Typing-Practice"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> : Internet Programming Project
+* ##### <a href="https://github.com/yongukpark/Typing-Practice"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> : Internet Programming Project
 ---
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkzj02)](https://solved.ac/tkzj02)

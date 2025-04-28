@@ -18,6 +18,6 @@
 * ##### <a href="https://github.com/yongukpark/NewsManageProgram"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> : Java Project
 * ##### <a href="https://github.com/yongukpark/Typing-Practice"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> : Internet Programming Project
 ##### 2025.02 ~ 2025.03
-* ##### <a href="https://github.com/yongukpark/RS_lightfm"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> : RS_lightfm
+* ##### <a href="https://github.com/yongukpark/RS_lightfm"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> : Recommandation system with lightfm
 ---
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkzj02)](https://solved.ac/tkzj02)

@@ -11,11 +11,10 @@
 🥉 [**우수상[6/271]** | 2025 SW중심대학 디지털 경진대회 : AI부문 | SW중심대학협의회, 과기술정보통신부](https://github.com/yongukpark/SW-2025)
 
 ## :computer: Projects
-
+* **[Building an Exercise Recommendation Model with LightFM](https://github.com/yongukpark/RS_lightfm?tab=readme-ov-file)**
 
 ## 📊 Research Experience
-
-
+* **[Finding Circuits in Large Language Models](https://github.com/yongukpark/head-bang-bang)**
 * **[Hop-based Weighted Ensemble for Class Imbalance Classification](https://github.com/yongukpark/class_imbalance)**
 
 ## :books: Algorithm & CS

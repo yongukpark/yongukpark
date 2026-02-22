@@ -12,6 +12,8 @@
 
 ## :computer: Projects
 * **[Building an Exercise Recommendation Model with LightFM](https://github.com/yongukpark/RS_lightfm?tab=readme-ov-file)**
+* **[Korean Illegal Job Posting Detection(Fine-Tuned Transformer-Based Model)](https://github.com/yongukpark/Korean-Illegal-Job-Posting-Detection)**
+* **[Development of a Radiation Noise Prediction Model](https://github.com/yongukpark/Radiation_Noise_Prediction)**
 
 ## 📊 Research Experience
 * **[Finding Circuits in Large Language Models](https://github.com/yongukpark/head-bang-bang)**

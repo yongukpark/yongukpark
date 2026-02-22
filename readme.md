@@ -19,7 +19,7 @@
 * **[Finding Circuits in Large Language Models](https://github.com/yongukpark/head-bang-bang)**
 * **[Hop-based Weighted Ensemble for Class Imbalance Classification](https://github.com/yongukpark/class_imbalance)**
 
-## :books: Algorithm & CS
+## :books: CS & Algorithm
 
 * **[Creating blog with django](https://github.com/yongukpark/Python-Blog)**
 * **[Creating Pac-man game with C++](https://github.com/yongukpark/Pac-man)**

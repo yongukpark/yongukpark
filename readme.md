@@ -1,8 +1,8 @@
 ## 🙋 Profile 
 
-* **B.S.** in Computer Engineering @ Inha University (2021.03 ~ Present) 
-* **Research Intern**, Data Intelligence & Applications Lab @ Inha University (2024.12 ~ 2025.12)
 * **Research Intern**, Statistical Artificial Intelligence Lab @ KAIST (2025.12 ~ Present)
+* **Research Intern**, Data Intelligence & Applications Lab @ Inha University (2024.12 ~ 2025.12)
+* **B.S.** in Computer Engineering @ Inha University (2021.03 ~ Present) 
 
 ## :trophy: Competitions
 

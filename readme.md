@@ -1,23 +1,32 @@
-#### :computer: : Profile 
-* ##### Kaggle :  <a href="https://www.kaggle.com/qkrdyddnr"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=blue"/></a>
+### 🙋 Profile 
+---
+* **B.S.** in Computer Engineering @ Inha University (2021.03 ~ Present) 
+* **Research Intern**, Data Intelligence & Applications Lab @ Inha University (2024.12 ~ 2025.12)
+* **Research Intern**, Statistical Artificial Intelligence Lab @ KAIST (2025.12 ~ Present)
 
-* ##### Velog : <a href="https://velog.io/@yongukpark"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+### :trophy: Competitions
+---
+🥇 **대상** | 카카오 x 한국정보과학회 AI 에이전트 경진대회 | 카카오, 정보과학회\
+🥉 **우수상** | 2025 인하 인공지능 챌린지 | 인공지능융합연구센터, BK 산업융합형 차세대 인공지능 혁신인재 교육연구단\
+🥉 [**우수상[6/271]** | 2025 SW중심대학 디지털 경진대회 : AI부문 | SW중심대학협의회, 과기술정보통신부](https://github.com/yongukpark/SW-2025)
+
+### :computer: Projects
 ---
 
-#### :seedling: : LIFE 
-#####  2021.02 : First Programming with Python
-#####  2021.03 ~ 2022. 02 : INHA University Computer Science Engineering
-* ##### <a href="https://github.com/yongukpark/oop"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> : Practice oop with C++
-* ##### <a href="https://github.com/yongukpark/Pac-man"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> : Make Pac-man with C++
-* ##### <a href="https://github.com/yongukpark/pybo"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> : Practice Django
-* ##### Practice Data-Science with Kaggle (beginner)
-##### 2022.04 ~ : Military
-* ##### <a href="https://github.com/yongukpark/BOJ"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> : BOJ
-* ##### <a href="https://velog.io/@yongukpark/series/Statistics"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> : Statistics
-##### 2024.03 ~ 2024.07
-* ##### <a href="https://github.com/yongukpark/NewsManageProgram"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> : Java Project
-* ##### <a href="https://github.com/yongukpark/Typing-Practice"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> : Internet Programming Project
-##### 2025.02 ~ 2025.03
-* ##### <a href="https://github.com/yongukpark/RS_lightfm"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> : Recommendation system with lightfm
+### 📊 Research Experience
 ---
+
+* [Hop-based Weighted Ensemble for Class Imbalance Classification](https://github.com/yongukpark/class_imbalance)
+
+### :books: Algorithm & CS
+---
+
+* [Creating blog with django](https://github.com/yongukpark/Python-Blog)
+* [Creating Pac-man game with C++](https://github.com/yongukpark/Pac-man)
+* [Binary Search Condition Ordering and Its Impact on Performance](https://github.com/yongukpark/Data-Science)
+* [News Manage Program](https://github.com/yongukpark/NewsManageProgram)
+* [Implementation of an AVL Tree](https://github.com/yongukpark/INHA_OSAP_002_T4)
+* [Implementing a Typing Practice Program with JAVA GUI](https://github.com/yongukpark/Typing-Practice)
+* [problem-solving practice](https://github.com/yongukpark/BOJ)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkzj02)](https://solved.ac/tkzj02)
+

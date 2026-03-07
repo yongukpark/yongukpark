@@ -11,12 +11,15 @@
 🥉 **우수상** | 2025 인하 인공지능 챌린지 | 인공지능융합연구센터, BK 산업융합형 차세대 인공지능 혁신인재 교육연구단
 
 ## :computer: Projects
+
 * **[Building an Exercise Recommendation Model with LightFM](https://github.com/yongukpark/RS_lightfm?tab=readme-ov-file)**
 * **[Korean Illegal Job Posting Detection(Fine-Tuned Transformer-Based Model)](https://github.com/yongukpark/Korean-Illegal-Job-Posting-Detection)**
 * **[Development of a Radiation Noise Prediction Model](https://github.com/yongukpark/Radiation_Noise_Prediction)**
 
 ## 📊 Research Experience
+
 * **[Finding Circuits in Large Language Models](https://github.com/yongukpark/head-bang-bang)**
+* **[Optimizing solder ball jetting](https://github.com/yongukpark/solder_ball)**
 * **[Hop-based Weighted Ensemble for Class Imbalance Classification](https://github.com/yongukpark/class_imbalance)**
 
 ## :books: CS & Algorithm

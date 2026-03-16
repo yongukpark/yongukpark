@@ -18,7 +18,7 @@
 
 ## 📊 Research Experience
 
-* **[Finding Circuits in Large Language Models](https://github.com/yongukpark/head-bang-bang-project)**
+* **[Mechanistic Analysis of Attention Heads in LLMs](https://github.com/yongukpark/head-bang-bang-project)**
 * **[Optimizing solder ball jetting](https://github.com/yongukpark/solder_ball)**
 * **[Hop-based Weighted Ensemble for Class Imbalance Classification](https://github.com/yongukpark/class_imbalance)**
 
